@@ -29,6 +29,32 @@
 
 ---
 
+### 💻 OS
+
+<p> 
+    <a href="https://https://www.apple.com/mac/" target="_blank"><img alt="MacOS"
+        src="https://img.shields.io/badge/Mac-A81D33?style=for-the-badge&logo=mac&logoColor=white"/></a>
+    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
+        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
+        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+</p>
+
+### 🎯 Skills
+
+#### ⌨️ Programming languages
+
+<p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+    <a href="https://www.python.org" target="_blank"><img alt="Python"
+        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
+        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+    <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust"
+        src="https://img.shields.io/badge/Rust-007ACC?style=for-the-badge&logo=rust&logoColor=white"/></a>
+</p>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
