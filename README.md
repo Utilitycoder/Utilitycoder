@@ -76,6 +76,9 @@
 
 ---
 
+### 🏆 Some Stat:
+![Utilitycoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utilitycoder&count_private=true&show_icons=true&theme=tokyonight)
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=utilitycoder&theme=dark&background=000000)](https://git.io/streak-stats)
