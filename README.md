@@ -22,9 +22,9 @@
 
 - 👋 I’m a Blockchain and Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in everything blockchain
-- 🪙 I’m currently looking for blockchain or smart contract development roles
+- 🪙 I’m currently looking for full-stack blockchain development roles
 - 💞️ I’m looking to collaborate on smart contract development
-- 📖 I read in my spare time. I love self-help and history
+- 📖 I read in my spare time. I love self-help and history books
 - 📫 You can reach me on utility4all@gmail.com
 
 ---
