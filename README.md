@@ -85,6 +85,10 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilitycoder&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=utilitycoder)
+
+
+
 
 <!---
 Utilitycoder/Utilitycoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
